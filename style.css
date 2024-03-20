@@ -1,0 +1,81 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat'; 
+*{
+    font-family:Montserrat;
+}
+.div1{
+   margin-left: 10px;
+   display: flex;
+
+}
+.image1{
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px 10px  rgb(94, 91, 91);
+    margin-bottom: 10px;
+}
+.image1:hover{
+    transform:scale(105%);
+    transition: 0.5s;
+    cursor: pointer;
+}
+.p2{
+    margin-left: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    text-shadow: 3px 6px 6px rgb(103, 98, 98);
+}
+h3{
+    color: white;
+}
+hr{
+    height: 3px;
+    background: black;
+    margin-top: 25px;
+}
+.image2{
+    height: 250px;
+    width: 250px;
+    border-radius: 5%;
+    margin-top: 10px;
+}
+.image3{
+    margin-top: 10px;
+    border-radius: 5%;
+}
+.image4{
+    margin-top: 10px;
+    border-radius: 5%;
+    width: 325px;
+}
+.image5{
+    margin-top: 10px;
+    border-radius: 5%;
+}
+.image6{
+    margin-top: 3px;
+    border-radius: 5%;
+    padding-right: 10px.p4;
+}
+.p5{
+    font-style:inherit;
+    font-size:large;
+    
+}
+.p4{
+    font-style:inherit;
+    font-size:large;
+}
+.p3{
+    font-style:inherit;
+    font-size:large;
+}
+.p1{
+    font-style:inherit;
+    font-size:large;
+}
+.subheading{
+    background-color: black;
+    width: 20%;
+}
